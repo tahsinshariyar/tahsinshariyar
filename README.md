@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Tahsin Shariyar</h1>
 <h3 align="center">A passionate frontend developer...</h3>
 
-<img align="right" alt="Coading" width="400px" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
+<img align="right" alt="Coading" width="400px" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 # 💫 About Me:
 📫 How to reach me tahsinshariyar46@gmail.com<br>🔭 I’m currently working on Backend Development<br>🌱 I’m currently learning AI & Machine Learning<br>⚡ Fun fact I'm awesome
